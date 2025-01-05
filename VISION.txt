@@ -1,0 +1,37 @@
+Users will start on a home screen that has the app title in a jumbotron and a card to continue if registered or register if necessary to the main menu.
+
+If registered proceed to Main Menu.
+
+If a new user, registration page of (REQUIRED) name, email, zip code, birth year (OPTIONAL) gender, occupation
+Once registration is Completed users will proceed to main menu.
+
+Main Menu: 
+    Create A Task
+    View Current Tasks
+    View Saved Tasks
+    View Completed Tasks
+    Contact Us
+    Exit
+
+Create a Task
+    Severitty (1-10 scale) - OPTIONAL
+    title - REQUIRED
+    due by (date & time(to the minute)) - OPTIONAL
+    Description - OPTIONAL
+    collaborators (if any(Name & Email)) - OPTIONAL
+    Submit
+
+Submit will return to main so long as all R info items are input.
+
+Users will be able to view these tasks in their current tasks and save to a frequent task list for future, more efficient access. As well as mark tasks completed. Tasks will show overdue if date and time is associated with task 
+    Back to main will return user to main
+
+Users will be able to view saved, frequent tasks and mark them active with new optional informatino.
+    Activating a task will bring user to Create a Task, With the title already filled in
+    Back to main will return user to main
+
+Users will be able to view completed tasks, date and time of completetion, add tasks to saved task list or re-activate tasks in the completed tasks area.
+
+Contact us will have an email, Facebook, and info form that users can reach out to the dev team.
+
+Exit will close the app.
